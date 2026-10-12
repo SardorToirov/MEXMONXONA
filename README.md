@@ -1,5 +1,3 @@
-# MEXMONXONA
-
 <div align="center">
 
 # MEHMONXONA
